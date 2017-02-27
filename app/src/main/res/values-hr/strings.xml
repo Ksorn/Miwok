@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Miwok</string>
+    <string name="category_colors">Boje</string>
+    <string name="category_family">Članovi obitelji</string>
+    <string name="category_numbers">Brojevi</string>
+    <string name="category_phrases">Fraze</string>
+    <string name="colors">Boje</string>
+    <string name="family_members">Članovi obitelji</string>
+    <string name="numbers">Brojevi</string>
+    <string name="phrases">Fraze</string>
+</resources>
